@@ -30,6 +30,7 @@
 preloading vulnerabilities](https://www.youtube.com/watch?v=xvluwoPM8v8)
 
 #### Post I've Written
+- https://dev.to/brompwnie/modifying-go-s-crypto-ssh-library-for-cve-2020-9283-26a7
 - https://blog.heroku.com/terrier-open-source-identifying-analyzing-containers
 - https://blog.heroku.com/applying-seccomp-filters-on-go-binaries
 - https://sensepost.com/blog/2016/rattleridentifying-and-exploiting-dll-preloading-vulnerabilities/
