@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on platform security at Heroku Salesforce
+- 🔭 I’m currently working on product security at Hashicorp
 - 🌱 I’m currently learning Go, Container Security, Linux Kernel Primitives such as eBPF;SecComp, CAPS and much more!
 - 👯 I’m looking to collaborate on Container and Cloud security! Hack all the things!
 - 💬 Ask me about container security, cloud security, devsecops, hacking
