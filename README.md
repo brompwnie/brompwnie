@@ -1,12 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on product security at HashiCorp
-- 🌱 I’m currently learning Go, Container Security, Linux Kernel Primitives such as eBPF;SecComp, CAPS and much more!
-- 👯 I’m looking to collaborate on Container and Cloud security! Hack all the things!
-- 💬 Ask me about container security, cloud security, devsecops, hacking
+- 🔭 I’m currently working on Product Security at HashiCorp
 - 📫 How to reach me: https://twitter.com/brompwnie
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I used to (pre-pandemic) play in a Blues Rock band in London!
 
 #### Public Speaking Engagements
 
