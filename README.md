@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Product Security at HashiCorp
-- 📫 How to reach me: https://twitter.com/brompwnie
+- 🔭 Product Security at HashiCorp
+- 📫 How to reach me: @brompwnie.bsky.social
 - 😄 Pronouns: He/Him
 
 #### Public Speaking Engagements
