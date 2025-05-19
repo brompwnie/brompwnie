@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Product Security at HashiCorp
+- 🔭 Security Enginneering @ Holland&Barrett
 - 📫 How to reach me: @brompwnie.bsky.social
 - 😄 Pronouns: He/Him
 
