@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Security Enginneering @ Holland&Barrett
+- 🔭 Security Enginneering @ Incident.io
 - 📫 How to reach me: @brompwnie.bsky.social
 - 😄 Pronouns: He/Him
 
