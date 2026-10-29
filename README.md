@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 - 🔭 Security Enginneering @ Incident.io
-- 📫 How to reach me: @brompwnie.bsky.social
-- 😄 Pronouns: He/Him
 
 #### Public Speaking Engagements
 
